@@ -1,0 +1,13 @@
+
+-- oracle to sqlite
+-- 이식자 jaybon
+-- https://velog.io/@jaybon
+-- 참고 : 프로시저 및 뷰 제외함
+
+DROP TABLE COUNTRIES;
+DROP TABLE DEPARTMENTS;
+DROP TABLE EMPLOYEES;
+DROP TABLE JOB_HISTORY;
+DROP TABLE JOBS;
+DROP TABLE LOCATIONS;
+DROP TABLE REGIONS;
